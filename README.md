@@ -5,11 +5,11 @@ Week 13 Project 1 for Bootcamp
 
 The files in this repository were used to configure the network depicted below. 
 
-!Project1_Diagram.png
+![Project1_Diagram.png](https://github.com/Maximus-Meridius-SC/BCS_Bootcamp_Project_1/blob/main/Diagrams/Project1_Diagram.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the yaml_files file may be used to install only certain pieces of it, such as Filebeat.
 
-  - _yaml_files_
+  - [yml-files](https://github.com/Maximus-Meridius-SC/BCS_Bootcamp_Project_1/tree/main/Ansible/yml-files/yml-files)
 
 This document contains the following details:
 - Description of the Topology
